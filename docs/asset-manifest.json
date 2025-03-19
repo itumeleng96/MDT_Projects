@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MDT_Projects/static/css/main.87e573f5.css",
-    "main.js": "/MDT_Projects/static/js/main.ba81d38a.js",
-    "static/js/453.02065dd7.chunk.js": "/MDT_Projects/static/js/453.02065dd7.chunk.js",
+    "main.js": "/MDT_Projects/static/js/main.de9c4202.js",
+    "static/js/453.f845e572.chunk.js": "/MDT_Projects/static/js/453.f845e572.chunk.js",
     "static/media/Recruiting.png": "/MDT_Projects/static/media/Recruiting.faeebb5ecbceddc61777.png",
     "static/media/Aura.png": "/MDT_Projects/static/media/Aura.e5ad93496c2e85e83e83.png",
     "static/media/Freelance.png": "/MDT_Projects/static/media/Freelance.89112b918bcff02d3210.png",
@@ -37,11 +37,11 @@
     "static/media/Mobile.png": "/MDT_Projects/static/media/Mobile.3895db1ec1859459fd4e.png",
     "index.html": "/MDT_Projects/index.html",
     "main.87e573f5.css.map": "/MDT_Projects/static/css/main.87e573f5.css.map",
-    "main.ba81d38a.js.map": "/MDT_Projects/static/js/main.ba81d38a.js.map",
-    "453.02065dd7.chunk.js.map": "/MDT_Projects/static/js/453.02065dd7.chunk.js.map"
+    "main.de9c4202.js.map": "/MDT_Projects/static/js/main.de9c4202.js.map",
+    "453.f845e572.chunk.js.map": "/MDT_Projects/static/js/453.f845e572.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87e573f5.css",
-    "static/js/main.ba81d38a.js"
+    "static/js/main.de9c4202.js"
   ]
 }
